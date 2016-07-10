@@ -10,9 +10,9 @@
 * disconnect t2 to filter (you can still use cable to connect t2 to filter's cv input)
 
 # license
-Hardware: CC-BY-NC-SA, Attribution Noncommercial Share Alike
+hardware: CC-BY-NC-SA, Attribution Noncommercial Share Alike
 
-By: tseng kweiwen
+by: tseng kweiwen
 
 # pcb's front side
 <img src="https://cloud.githubusercontent.com/assets/15021145/16654984/df2374e0-448a-11e6-84c2-f2f5af4d63cb.png" width="480">
