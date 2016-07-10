@@ -3,7 +3,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/15021145/16653856/99682310-4485-11e6-91bf-216e7747f427.jpg" width="480">
 
-# modifications:
+# modifications
 * an external audio input to filter
 * the pitch is voltage controllable in both oscillator
 * the frequency of low pass filter is voltage controllable
