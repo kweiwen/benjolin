@@ -10,7 +10,7 @@
 * disconnect t2 to filter (you can still use cable to connect t2 to filter's cv input)
 
 # license
-hardware: cc-by-nc-sa, attribution noncommercial share alike
+hardware: cc-by-sa-3.0, attribution noncommercial share alike
 
 by: tseng kweiwen
 
@@ -21,4 +21,4 @@ by: tseng kweiwen
 <img src="https://cloud.githubusercontent.com/assets/15021145/16654983/df1690a4-448a-11e6-8010-2fd061353b7f.png" width="480">
 
 # acknowledgements
-thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a gift to the diy synth community and I am truly grateful for his dedication and kindness.
+thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a gift to the diy synth community and i am truly grateful for his dedication and kindness.
