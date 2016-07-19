@@ -10,7 +10,8 @@
 * disconnect t2 to filter (you can still use cable to connect t2 to filter's cv input)
 
 # license
-hardware: cc-by-sa-3.0, attribution noncommercial share alike
+hardware: cc-by-sa-3.0
+
 
 by: tseng kweiwen
 
