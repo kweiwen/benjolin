@@ -1,6 +1,8 @@
 # benjolin
 * this is a diy eurorack project based on rob hordijk's benjolin 
 
+<img src="https://cloud.githubusercontent.com/assets/15021145/17259543/9abd7636-55fe-11e6-9a2a-b2b2ba39500f.jpg" width="480">
+
 <img src="https://cloud.githubusercontent.com/assets/15021145/16653856/99682310-4485-11e6-91bf-216e7747f427.jpg" width="480">
 
 # modifications
