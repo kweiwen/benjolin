@@ -8,6 +8,7 @@
 * the pitch is voltage controllable in both oscillator
 * the frequency of low pass filter is voltage controllable
 * disconnect t2 to filter (you can still use cable to connect t2 to filter's cv input)
+* add a spst to switch the current input(p1 or -9~9v voltage with a potentiometer) to bc547 
 
 # license
 hardware: cc-by-sa-3.0
