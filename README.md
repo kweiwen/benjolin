@@ -22,5 +22,8 @@ by: tseng kweiwen
 # pcb's back side
 <img src="https://cloud.githubusercontent.com/assets/15021145/16654983/df1690a4-448a-11e6-8010-2fd061353b7f.png" width="480">
 
+# building & troubleshooting...
+please check wiki's page for more details.
+
 # acknowledgements
 thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a gift to the diy synth community and i am truly grateful for his dedication and kindness.
