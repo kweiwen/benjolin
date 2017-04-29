@@ -16,10 +16,10 @@ hardware: cc-by-sa-3.0
 
 by: tseng kweiwen
 
-# pcb's front side
+# front side of pcb 
 <img src="https://cloud.githubusercontent.com/assets/15021145/25553008/ec268f5e-2cda-11e7-9e3f-ba969d126c5f.png" width="480">
 
-# pcb's back side
+# back side of pcb
 <img src="https://cloud.githubusercontent.com/assets/15021145/25553009/ec29c958-2cda-11e7-9693-ededf0ead895.png" width="480">
 
 # building & troubleshooting...
