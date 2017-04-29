@@ -1,7 +1,7 @@
 # benjolin
 * this is a diy eurorack project based on rob hordijk's benjolin 
 
-<img src="https://cloud.githubusercontent.com/assets/15021145/17259543/9abd7636-55fe-11e6-9a2a-b2b2ba39500f.jpg" width="480">
+<img src="https://cloud.githubusercontent.com/assets/15021145/25553005/d3c58190-2cda-11e7-86a0-99eca499a703.JPG" width="480">
 
 # modifications
 * an external audio input to filter
@@ -17,10 +17,10 @@ hardware: cc-by-sa-3.0
 by: tseng kweiwen
 
 # pcb's front side
-<img src="https://cloud.githubusercontent.com/assets/15021145/16654984/df2374e0-448a-11e6-84c2-f2f5af4d63cb.png" width="480">
+<img src="https://cloud.githubusercontent.com/assets/15021145/25553008/ec268f5e-2cda-11e7-9e3f-ba969d126c5f.png" width="480">
 
 # pcb's back side
-<img src="https://cloud.githubusercontent.com/assets/15021145/16654983/df1690a4-448a-11e6-8010-2fd061353b7f.png" width="480">
+<img src="https://cloud.githubusercontent.com/assets/15021145/25553009/ec29c958-2cda-11e7-9693-ededf0ead895.png" width="480">
 
 # building & troubleshooting...
 please check wiki's page for more details.
