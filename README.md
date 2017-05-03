@@ -18,8 +18,6 @@
 * pwm out: ~18Vpp
 * main out: ~2Vpp
 
-by: tseng kweiwen
-
 # front side of pcb 
 <img src="https://cloud.githubusercontent.com/assets/15021145/25553008/ec268f5e-2cda-11e7-9e3f-ba969d126c5f.png" width="480">
 
@@ -34,3 +32,4 @@ thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a 
 
 # license
 hardware: cc-by-sa-3.0
+by: tseng kweiwen
