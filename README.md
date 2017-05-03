@@ -10,9 +10,13 @@
 * disconnect t2 to filter (you can still use cable to connect t2 to filter's cv input)
 * add a spst to switch the current input(p1 or -9~9v voltage with a potentiometer) to bc547 
 
-# license
-hardware: cc-by-sa-3.0
-
+# voltage
+* tri1 out: ~6Vpp
+* pul1 out: ~12Vpp
+* tri2 out: ~6Vpp
+* pul2 out: ~12Vpp
+* pwm out: ~18Vpp
+* main out: ~2Vpp
 
 by: tseng kweiwen
 
@@ -27,3 +31,6 @@ please check [here](https://github.com/kweiwen/benjolin/wiki) for for more detai
 
 # acknowledgements
 thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a gift to the diy synth community and i am truly grateful for his dedication and kindness.
+
+# license
+hardware: cc-by-sa-3.0
