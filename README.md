@@ -23,7 +23,7 @@ by: tseng kweiwen
 <img src="https://cloud.githubusercontent.com/assets/15021145/25553009/ec29c958-2cda-11e7-9693-ededf0ead895.png" width="480">
 
 # building & troubleshooting...
-please check wiki's page for more details.
+please check [here](https://github.com/kweiwen/benjolin/wiki) for for more details.
 
 # acknowledgements
 thanks rob's permission allows me to run benjolin's pcb in eurorack, which is a gift to the diy synth community and i am truly grateful for his dedication and kindness.
