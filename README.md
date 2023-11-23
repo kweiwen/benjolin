@@ -1,4 +1,4 @@
-# Benjolin
+# Benjolin - Rob Hordijk's Benjolin in the Eurorack format 
 * This is a DIY Eurorack project based on Rob Hordijk's Benjolin design.
 
 <img src="https://cloud.githubusercontent.com/assets/15021145/25553005/d3c58190-2cda-11e7-86a0-99eca499a703.JPG" width="480">
