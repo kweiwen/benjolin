@@ -31,5 +31,8 @@ For further details and guidance, please refer to our comprehensive guide availa
 I extend my sincere gratitude to Rob for granting permission to adapt the Benjolin PCB for Eurorack use. His generosity is a significant contribution to the DIY synth community. His dedication and kindness are deeply appreciated.
 
 # License
-Hardware: CC-BY-SA-3.0
+Code: MIT license.
+
+Hardware: cc-by-sa-3.0
+
 By: Tseng Kweiwen
